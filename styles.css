@@ -1,5 +1,10 @@
 .foto{
-  background-image: URL("");
+  background-image: URL("https://64.media.tumblr.com/e9b8e9ee100e508a29c7a9d2187c7e4c/tumblr_mporc88fwl1rdk7yeo1_500.gif");
   background-repeat: no-repeat;
   background-size:50%;
+  width:50px
+  height: 50px;
+}
+body{
+  background-color: red;
 }
